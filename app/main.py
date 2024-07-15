@@ -45,4 +45,3 @@ class CarWashStation:
         self.count_of_ratings = self.count_of_ratings + 1
         self.average_rating = round(self.average_rating, 1)
 
-    pass
